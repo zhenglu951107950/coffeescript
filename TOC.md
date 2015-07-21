@@ -67,7 +67,7 @@
  - [Detecting and Creating Missing Functions](detecting-and-creating-missing-functions.md)
  - [Extending Built-in Objects](extending-built-in-objects.md)
 - jQuery
- - [AJAX](AJAX)
+ - [AJAX](ajax.md)
  - [Callback Bindings](callback-bindings.md)
  - [Create a jQuery Plugin](create-a-jquery-plugin.md)
 - Ajax
@@ -95,7 +95,7 @@
  - [Memento Pattern](memento-pattern.md)
  - [Observer Pattern](observer-pattern.md)
  - [Singleton Pattern](singleton-pattern.md)
- - [Strategy Pattern](strategy-pattern.md.md)
+ - [Strategy Pattern](strategy-pattern.md)
  - [Template Method Pattern](template-method-pattern.md)
 - Databases
  - [MongoDB](mongodb.md)
